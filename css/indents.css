@@ -1,0 +1,15 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.pink {
+    background-color: fuchsia;
+    margin-top: 100px;
+    margin-right: 120px;
+}
+.blue {
+    background-color: aqua;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
